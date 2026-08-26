@@ -1,4 +1,6 @@
-Every function must have this header:
+# PLEASE VIEW AS SOURCE IF ON GITHUB
+
+<!--Every function must have this header:
 ##
  # Description of the functions purpose.
  # The file path to the function.
@@ -42,4 +44,6 @@ namespace/
     └── reset.mcfunction
 
 
-# By Mythorical
+By Mythorical
+
+--!>
