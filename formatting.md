@@ -42,4 +42,4 @@ namespace/
     └── reset.mcfunction
 
 
-# By Mythorical
+# By @Mythorical
